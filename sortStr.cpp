@@ -11,7 +11,7 @@ int main(){
 	sort(str,str+5);
 
 	for(int i=0;i<5;i++){
-        cout<<"Hello "<<str[i]<<endl;
+        cout<<"Hello "<<str[i]<<"\n";
 	}
 return 0;
 }
